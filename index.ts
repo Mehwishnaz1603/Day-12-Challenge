@@ -1,5 +1,5 @@
-                     // 🚀 Day 11 Challenge: Start Coding! 🚀//
-//Q34: Pizzas: Think of at least three kinds of your favorite pizza. Store these pizza names 
+                     // 🚀 Day 12 Challenge: Start Coding! 🚀//
+ //Q34: Pizzas: Think of at least three kinds of your favorite pizza. Store these pizza names 
 //in a array, and then use a for loop to print the name of each pizza.
 //• Modify your for loop to print a sentence using the name of the pizza instead of printing 
 //just the name of the pizza. For each pizza you should have one line of output containing a 
@@ -32,3 +32,5 @@ function make_shirt(size: string, message: string) {
 make_shirt("Small", "<\My Life My Rules\>")
 make_shirt("Medium", "<\I am a Codinggirl\>")
 make_shirt("Large", "<\I love codimg\>")
+
+
